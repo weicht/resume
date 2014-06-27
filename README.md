@@ -65,7 +65,7 @@ Worked on Pathfinder which is a data mining tool used by analysts throughout the
 
 ### Technologies / Methodologies
 - Linux, Mac, Solaris, Windows
-- C, C++, CGI, CSS, Dojo, Gtk, HTML, Javascript, PHP, Perl, Sencha Touch, Shell scripting
-- Apache, CVS, GCC, Git, Tomcat, MySQL, Oracle, Eclipse, Ant, SVN
+- C, C++, CGI, CSS, Dojo, Gtk, HTML, Javascript, PHP, Perl, Python, Sencha Touch, Shell scripting
+- Ant, Apache, CVS, Flask, GCC, Git, Mongo, MySQL, Oracle, SVN, Tomcat
 - Agile Methodologies, Scrum, Test Driven Development (TDD)
 
