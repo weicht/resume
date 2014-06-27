@@ -17,7 +17,7 @@ Experienced and proactive leader that provides strong organizational and communi
 ### Experience
 
 ___Systems Made Simple (SMS) // Deputy Chief Engineer // Mar 2013-Present___    
-Provide engineering support to the Interagency Program Office (IPO) in support of the joint integrated Electronic Health Record (iEHR) effort.  Develop system design artifacts and presentation material to explain and document architecture, interfaces, and data integration.  Collaborate with ScrumMasters to ensure Sprint structure was defined and activities were in alignment with project long-term goals.  Coordinate with Business Analysts on defining User Stories, and Release/Configuration Management on planning releases.  Provide leadership support to the different functional team leads.
+Provide engineering support to the DoD/VA Interagency Program Office (IPO) in support of the joint integrated Electronic Health Record (iEHR) effort.  Develop system design artifacts and presentation material to explain and document architecture, interfaces, and data integration.  Collaborate with ScrumMasters to ensure Sprint structure was defined and activities were in alignment with project long-term goals.  Coordinate with Business Analysts on defining User Stories, and Release/Configuration Management on planning releases.  Provide leadership support to the different functional team leads.
 
 
 ___Open Source Connections (OSC) // Consultant (Independent Contractor) // Dec 2012-Feb 2013___    
